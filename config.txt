@@ -1,0 +1,6 @@
+;!@Install@!UTF-8!
+GUIFlags="8"
+InstallPath="%TEMP%\puyoapp_%random%"
+RunProgram="app___.bat"
+Delete="true"
+;!@InstallEnd@!
