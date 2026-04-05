@@ -14,5 +14,4 @@ a simple Batch script which gives you options for importing your pulls for HoYo 
 > [!WARNING]
 > This tool uses pull import scripts (usually powershell-based) not provided by me. Using at your own risk!
 
-[<img src="https://img.shields.io/badge/Download latest-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](../../releases/latest/tag/v25.9.22)
-https://github.com/puyomi2k/gacha-tracker/releases/tag/v25.9.22
+[<img src="https://img.shields.io/badge/Download latest legacy version-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](../../releases/tag/v25.9.22)
