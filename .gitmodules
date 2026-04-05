@@ -1,0 +1,3 @@
+[submodule "Test"]
+	path = assets
+	url = https://github.com/puyomi2k/puyomi2k/assets
