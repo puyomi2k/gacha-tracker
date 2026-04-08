@@ -1,5 +1,5 @@
- --------------------------------------------------------
- WuWa-Tracker v4 Migration Guide (BITTE LESEN!/PLS READ!)
- => Link im Änderungsverlauf / Link in the Changelog <=
- ________________________________________________________
+ ---------------------------------------------------------
+ Security fix: Changed import script URLs to immutable
+ after EndfieldRecords incident. Last build before rewrite
+ _________________________________________________________
 
