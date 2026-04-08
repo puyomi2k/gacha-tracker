@@ -29,7 +29,7 @@ choice /n /c 1234XC /m "Select appropriate option: "
 ::level bei x entspricht der letzten position nummerisch
 if errorlevel 6 cls & type changelog.txt & pause & goto menu
 if errorlevel 5 goto ende
-if errorlevel 4 start https://stardb.gg/zzz/signal-import & set tracker-url=https://github.com/puyomi2k/gacha-tracker/blob/main/assets/scripts/stardb-zenless.ps1 & goto read_pull_history
+if errorlevel 4 start https://stardb.gg/zzz/signal-import & set tracker-url=https://github.com/puyomi2k/gacha-tracker/blob/main/assets/scripts/stardb-zenless.ps1?raw=true & goto read_pull_history
 if errorlevel 3 start https://wuwatracker.com/import & set tracker-url=https://github.com/wuwatracker/wuwatracker/blob/d3c9f811da0890944f241201e1b67d2c1be77867/import.ps1?raw=true & goto read_pull_history
 if errorlevel 2 goto submenu_hsr
 if errorlevel 1 goto submenu_genshin
@@ -82,7 +82,7 @@ echo  C) Cancel and return to the main menu
 echo  X) Close %puyo-appname%
 echo.
 
-set tracker-url=https://github.com/puyomi2k/gacha-tracker/blob/main/assets/scripts/stardb-starrail?raw=true
+set tracker-url=https://github.com/puyomi2k/gacha-tracker/blob/main/assets/scripts/stardb-starrail.ps1?raw=true
 choice /n /c 123ICX /m "Select appropriate option: " /t 11 /d 1
 if errorlevel 6 goto ende
 if errorlevel 5 echo Operation canceled... & goto menu

@@ -35,41 +35,11 @@ v25.9.22 (v2.2) | 22. September 2025
 => https://wuwatracker.com/articles/wuwatracker-v4-migration-guide (English only)
 [CHANGED] Reversed the chronological order of the update histrory inside the changelog so the latest update appears first in the console
 
-_______________________________________________________________
 
+v26.8.4l (v2.2.1) | 08. April 2026
 
-Änderungsverlauf (Changelog)
-============ DEUTSCH / GERMAN ===
-
-v1.0 | 25. Mai 2025
-
-[HINWEIS] Erstausgabe des Gacha-Trackers
-[HINZUGEFÜGT] Unterstützung für Genshin und Honkai: Start Rail über StarDB sowie für Wuthering Waves über WuWa Tracker
-[HINZUGEFÜGT] Workaround für das Abschalten des nerfigen BIOS-Piep-Sounds (App braucht deshalb Adminrechte)
-
-
-v2.0 | 28. Juni 2025
-
-[HINZUGEFÜGT] Mehrere Optionen für Genshin und HSR inklusive Auswahlmenüs
-[HINZUGEFÜGT] ZZZ Support - [aktuell nur über StarDB
-[HINZUGEFÜGT] Menüs schließen sich nun automatisch - [App schließt sich nach 60 Sekunden ohne Eingabe
-[ÄNDERUNG] Kleinere Anpassungen am Menü-Design und Auswahloptionen
-[ENTFERNT] Administrator-Rechte werden nun nicht mehr benötigt. Dies war erforderlich, da ich den BEEP-Dienst permanent abschalten wollte, um das nerfige BIOS-Piepsen beim drücken einer ungültigen Taste durch das Piepen von Windows zu ersetzen (Kann manuell durchgeführt werden mit dem Befehl "net stop beep" mit Adminrechten versteht sich)
-
-
-v25.9.1 (v2.1) | 01. September 2025
-
-[HINZUGEFÜGT] Changelog eingeführt (teilweise auch rückwirkend für ältere Versionen)
-[ÄNDERUNG] Änderung und Tausch der Versions- und Entwicklerangabe im Menü-Deader-Bereich
-[ÄNDERUNG] Versionsformat geändert zu Jahr-Monat-Tag (JJ.M.T)
-[ÄNDERUNG] Links zu stardb.gg verändert - [das Öffnen der Seite verweist nun direkt zum Importieren der Pulls statt zur Übersicht
-[ENTFERNT] Automatisches Schließen des Tools nach 60 Sekunden im Hauptmenü
-[INFO] In zukünftigen Versionen wird es Unterstützung für andere Sprachen (vorerst nur Englisch) geben. Der erste Schritt dahin ist es - diesen Changelog auch in Englisch anzubieten
-
-
-v25.9.22 (v2.2) | 22. September 2025
-
-[ÄNDERUNG] Anpassen des WuWa Track-Links an die neue "WuWa Tracker v4". Bitte lese dir die Migrationsanleitung durch (falls du dort ein Konto hast):
-=> https://wuwatracker.com/articles/wuwatracker-v4-migration-guide (nur auf Englisch verfügbar)
-[ÄNDERUNG] Umkehren der Chronologischen Reihenfolge der Updates des Änderungsverlaufs, damit die neuste Version immer zuerst in der Konsole zu sehen ist
+[CHANGED] Adjust the Import script links to make them immutable following the EndfieldRecords incident.
+[CHANGED] UI language has been rewritten into englisch to prepare it for first GitHub release. German will be readded later after the multi-language System has been implemented
+[REMOVED] German part of changelog. In-App Changelog will be fully removed in the rewrite and be hosted on GitHub in the future.
+[NOTE] This will be the last build before the rewrite (legacy)
 
