@@ -1,6 +1,8 @@
 <div align="center">
 
 [![Logo](assets/Title+Slogan.svg)](#)
+a one-stop tool to import all your games pull history
+
 [![en](https://img.shields.io/badge/en-English-blue)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-orange)](/README.de.md)
 
 </div>
@@ -8,7 +10,8 @@
 # List of supported games
 
 > [!WARNING]
-> This tool uses pull import scripts (usually powershell) not provided by me.<br>Using at your own risk!
+> This tool uses pull import scripts (usually powershell) not provided by me.
+> <br>Using at your own risk!
 
 | Supported Games       |      | Import Sites                                | Import Script   |
 |-----------------------|------|---------------------------------------------|-----------------|

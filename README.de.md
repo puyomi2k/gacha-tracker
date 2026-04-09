@@ -1,6 +1,8 @@
 <div align="center">
 
 [![Logo](assets/Title+Slogan.svg)](#)
+ein All-in-One-Tool um den Ziehungsverlauf all deiner Spiele zu importieren
+
 [![en](https://img.shields.io/badge/en-English-orange)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-blue)](/README.de.md)
 
 </div>
@@ -52,5 +54,5 @@ End of readable part
 
 [WuWaTracker]:https://github.com/wuwatracker/wuwatracker/blob/d3c9f811da0890944f241201e1b67d2c1be77867/import.ps1 "Link auf speziifischen Git(Hub) Commit festgelegt (fest)"
 [stardb/wish]:assets/scripts/stardb-genshin.ps1 "Selbst gehosted"
-[stardb/warp]:assets/scripts/stardb-starrail.ps1  "Selbst gehosted
+[stardb/warp]:assets/scripts/stardb-starrail.ps1  "Selbst gehosted"
 [stardb/signal]:assets/scripts/stardb-zenless.ps1  "Selbst gehosted"
