@@ -3,7 +3,7 @@
 [![Logo](assets/Title+Slogan.svg)](#)
 a one-stop tool to import all your games pull history
 
-[![en](https://img.shields.io/badge/en-English-blue)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-orange)](/README.de.md)
+[![en](https://img.shields.io/badge/en-English-blue)](#) [![de](https://img.shields.io/badge/de-Deutsch-orange)](/docs/readme/de.md)
 
 </div>
 
@@ -26,7 +26,7 @@ a one-stop tool to import all your games pull history
 
 # Get the Tracker
 [<img src="https://img.shields.io/badge/Download latest-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](releases/latest/download/Gacha-Tracker.exe)
-> Alternatively get the Batch script [**directly**](releases/latest/download/Gatcha-Tracker.bat)    
+> Alternatively get the archive [**here**](releases/latest/download/Gatcha-Tracker.zip)
 
 ## ToDo List/WIP:
 - Language system to support different languages

@@ -3,7 +3,7 @@
 [![Logo](assets/Title+Slogan.svg)](#)
 ein All-in-One-Tool um den Ziehungsverlauf all deiner Spiele zu importieren
 
-[![en](https://img.shields.io/badge/en-English-orange)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-blue)](/README.de.md)
+[![en](https://img.shields.io/badge/en-English-orange)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-blue)](#)
 
 </div>
 
@@ -21,11 +21,11 @@ ein All-in-One-Tool um den Ziehungsverlauf all deiner Spiele zu importieren
 | [Arknights: Endfield] | [ℹ️] | n/a                                         | n/a             |
 
 > [!NOTE]
-> Aktuell nutzt dieses Tool Skripte, die feste Links haben. Aufgrund eines Vorfalls, in dem solch ein [Skript für Arknights: Endfield durch ein bösartiges ersetzt](https://www.reddit.com/r/Endfield/comments/1rjx5v6/endfieldrecords_dot_com_pull_tracker_malware) wurde, werde ich alle URLs ersezten und ggf.  [selbst hosten](assets/scripts), um manipulationen an diesen zu verhindern und die Sicherheit dieses Tools zu gewährleisten. Alle Anbieter, die wir derzeit nutzen, gelten als sicher.
+> Aktuell nutzt dieses Tool Skripte, die feste Links haben. Aufgrund eines Vorfalls, in dem solch ein [Skript für Arknights: Endfield durch ein bösartiges ersetzt](https://www.reddit.com/r/Endfield/comments/1rjx5v6/endfieldrecords_dot_com_pull_tracker_malware) wurde, werde ich alle URLs ersezten und ggf. [selbst hosten](assets/scripts), um manipulationen an diesen zu verhindern und die Sicherheit dieses Tools zu gewährleisten. Alle Anbieter, die wir derzeit nutzen, gelten als sicher.
 
 # Hol dir den Tracker
 [<img src="https://img.shields.io/badge/Gacha Tracker herunterladen-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](releases/latest/download/Gacha-Tracker.exe)
-> Alternativ kannst du dir auch die BAT [**hier herunterladen**](releases/latest/download/Gatcha-Tracker.bat)    
+> Alternativ kannst du es auch als Archiv [**herunterladen**](releases/latest/download/Gatcha-Tracker.zip)
 
 ## In Planung/Arbeit:
 - Sprachsystem, um mehrere Sprachen zu unterstützen
