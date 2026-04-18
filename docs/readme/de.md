@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Logo](assets/Title+Slogan.svg)](#)
+[![Logo](/assets/Title+Slogan.svg)](#)
 ein All-in-One-Tool um den Ziehungsverlauf all deiner Spiele zu importieren
 
 [![en](https://img.shields.io/badge/en-English-orange)](/README.md) [![de](https://img.shields.io/badge/de-Deutsch-blue)](#)
