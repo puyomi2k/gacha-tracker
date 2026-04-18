@@ -21,11 +21,11 @@ ein All-in-One-Tool um den Ziehungsverlauf all deiner Spiele zu importieren
 | [Arknights: Endfield] | [ℹ️] | n/a                                         | n/a             |
 
 > [!NOTE]
-> Aktuell nutzt dieses Tool Skripte, die feste Links haben. Aufgrund eines Vorfalls, in dem solch ein [Skript für Arknights: Endfield durch ein bösartiges ersetzt](https://www.reddit.com/r/Endfield/comments/1rjx5v6/endfieldrecords_dot_com_pull_tracker_malware) wurde, werde ich alle URLs ersezten und ggf. [selbst hosten](assets/scripts), um manipulationen an diesen zu verhindern und die Sicherheit dieses Tools zu gewährleisten. Alle Anbieter, die wir derzeit nutzen, gelten als sicher.
+> Aktuell nutzt dieses Tool Skripte, die feste Links haben. Aufgrund eines Vorfalls, in dem solch ein [Skript für Arknights: Endfield durch ein bösartiges ersetzt](https://www.reddit.com/r/Endfield/comments/1rjx5v6/endfieldrecords_dot_com_pull_tracker_malware) wurde, werde ich alle URLs ersezten und ggf. [selbst hosten](/assets/scripts), um manipulationen an diesen zu verhindern und die Sicherheit dieses Tools zu gewährleisten. Alle Anbieter, die wir derzeit nutzen, gelten als sicher.
 
 # Hol dir den Tracker
-[<img src="https://img.shields.io/badge/Gacha Tracker herunterladen-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](releases/latest/download/Gacha-Tracker.exe)
-> Alternativ kannst du es auch als Archiv [**herunterladen**](releases/latest/download/Gatcha-Tracker.zip)
+[<img src="https://img.shields.io/badge/Gacha Tracker herunterladen-dl?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](/releases/latest/download/Gacha-Tracker.exe)
+> Alternativ kannst du es auch als Archiv [**herunterladen**](/releases/latest/download/Gatcha-Tracker.zip)
 
 ## In Planung/Arbeit:
 - Sprachsystem, um mehrere Sprachen zu unterstützen
@@ -53,6 +53,6 @@ End of readable part
 [Paimon.moe]:https://paimon.moe/wish
 
 [WuWaTracker]:https://github.com/wuwatracker/wuwatracker/blob/d3c9f811da0890944f241201e1b67d2c1be77867/import.ps1 "Link auf speziifischen Git(Hub) Commit festgelegt (fest)"
-[stardb/wish]:assets/scripts/stardb-genshin.ps1 "Selbst gehosted"
-[stardb/warp]:assets/scripts/stardb-starrail.ps1  "Selbst gehosted"
-[stardb/signal]:assets/scripts/stardb-zenless.ps1  "Selbst gehosted"
+[stardb/wish]:/assets/scripts/stardb-genshin.ps1 "Selbst gehosted"
+[stardb/warp]:/assets/scripts/stardb-starrail.ps1  "Selbst gehosted"
+[stardb/signal]:/assets/scripts/stardb-zenless.ps1  "Selbst gehosted"
